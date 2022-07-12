@@ -1,0 +1,9 @@
+StartingTicks: 2000
+DescendingTicks: 50
+WaveEvery: 50
+Range: 10
+Blocks: 1
+FillAir: true
+Multiplier: 0
+SavageMod: false
+DebugMode: false

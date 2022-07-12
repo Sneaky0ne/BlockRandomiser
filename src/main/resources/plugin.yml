@@ -1,0 +1,10 @@
+name: SneakyOnePlugin
+version: ${project.version}
+main: mc.sneakyone.yt.com.sneakyoneplugin.SneakyOnePlugin
+api-version: 1.16
+authors: [ SneakyOne ]
+description: Плагин, рандомизирующий блоки вокруг вас
+commands:
+  startfill:
+    description: Starts plugin
+    usage: /startfill
